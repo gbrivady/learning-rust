@@ -7,3 +7,5 @@ For when I have learned this language:
 
 - Quantum SDK in a real (not Python) and modern (not C/C++) language
 - Small puzzle game: Picross or Sudoku
+- Factory game: shapez or something similar
+- Small FE-like game
